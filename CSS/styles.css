@@ -7,7 +7,7 @@
 
 /* Set background image for the entire page */
 body {
-    background-image: url('../images/background.jpg'); /* Add your background image path here */
+    background-image: url('images/background.jpg'); /* Add your background image path here */
     background-size: cover;
     background-attachment: fixed;
     background-position: center;
@@ -57,7 +57,7 @@ main {
 
 /* Styling the profile picture */
 .profile-pic {
-    background-image: url('../images/profile.png'); /* Add your profile picture path here (.png format) */
+    background-image: url('images/profile.png'); /* Add your profile picture path here (.png format) */
     background-size: cover;
     background-position: center;
     width: 150px; /* Adjust the size as needed */
